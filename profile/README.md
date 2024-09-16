@@ -1,6 +1,6 @@
 # Welcome to UseSaaSKit
 
-[**UseSaaSKit**](https://usesaaskit.com) is a ready-to-use **Next.js** SaaS template designed to accelerate the development process for modern SaaS products. With an array of built-in features, this template allows you to focus on building your product instead of dealing with boilerplate setup.
+[**UseSaaSKit**](https://usesaaskit.com) is a ready-to-use NextJS Supabase SaaS template designed to accelerate the development process for modern SaaS products. With an array of built-in features, this template allows you to focus on building your product instead of dealing with boilerplate setup.
 
 ## 🚀 Features
 
