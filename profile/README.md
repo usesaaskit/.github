@@ -4,15 +4,15 @@
 
 ## 🚀 Features
 
-- **Authentication**: Secure user authentication built on Supabase.
+- **Authentication (OAuth Included)**: Secure user authentication built on Supabase.
 - **Multi Organization Support**: Enable multiple organizations in your SaaS with ease.
 - **Team Members with Role**: Role-based access control for team members within organizations.
+- **Super Admin Dashboard**: Manage your entire application from a powerful super admin panel.
 - **Billing & Subscription**: Integrated subscription management powered by Stripe.
 - **Marketing Pages & Emails**: Pre-built marketing pages and email automation with Resend.
-- **SEO Optimization**: Ready for search engine optimization out of the box.
+- **SEO Optimised**: Ready for search engine optimization out of the box.
 - **Analytics**: Integrated analytics to monitor user activity and app performance.
 - **API Keys**: Securely manage API keys for external integrations.
-- **Super Admin Dashboard**: Manage your entire application from a powerful super admin panel.
 
 ---
 
